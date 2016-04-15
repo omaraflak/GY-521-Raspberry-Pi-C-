@@ -1,4 +1,4 @@
-# GY-521 Raspberry Pi C++
+# GY-521 / MPU-6050 Raspberry Pi C++
 This class allows you to get datas from the GY-521 sensor on Raspberry Pi AND in C++ !
 
 1) Download WiringPi library
