@@ -9,7 +9,7 @@ This class allows you to get datas from the GY-521 sensor on Raspberry Pi AND in
     cd wiringPi
     ./build
 
-2) Use my class like this:
+2) Use the Sensor class as follows:
 
     Sensor sensor;
     int x = sensor.getGyroX();
